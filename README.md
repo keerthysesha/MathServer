@@ -181,7 +181,8 @@ def rectarea(request):
 
 ## HOMEPAGE:
 
-![image](https://github.com/Catty12384/MathServer/assets/120629225/22e9f44b-2065-4360-aa46-87cba56c219c)
+![image](https://github.com/keerthysesha/MathServer/assets/125575936/f0d70c24-94d7-4e05-b05a-77c9f6f96d33)
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
